@@ -1,2 +1,2 @@
 # MachineLearning
-About Logistic Regression using Sklearn
+About Logistic Regression using Sklearn method
