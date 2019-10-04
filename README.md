@@ -1,2 +1,2 @@
 
-About Logistic Regression using Sklearn method
+ Logistic Regression Machine Learning Algorithm using Sklearn module
